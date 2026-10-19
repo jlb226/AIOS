@@ -159,12 +159,7 @@ See `EXPANSIONS.md` for what to add as you grow (`projects/`, `templates/`, `scr
 
 ---
 
-## License + attribution
 
-MIT License.
 
-The Three Ms of AI™ and The Four Cs of an AI OS™ ship in this repo as frameworks. Use freely; don't repackage as your own.
-
-The companion masterclass video walks you through the kit step by step. Link will land here once it ships.
-#   A I O S  
- 
+ 
+ 
