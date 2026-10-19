@@ -1,10 +1,10 @@
 # AIOS: AI Operating System starter kit for Claude Code and Codex
 
-A free, MIT-licensed starter kit that turns Claude Code or Codex into your personal **AI Operating System (AI OS)**. Audience: anyone building automations — solopreneurs, small business operators, managers, creators, AI consultants. Pairs with a companion masterclass video.
+A starter kit that turns Claude Code into a personal **AI Operating System (AI OS)**. Audience: anyone building automations — solopreneurs, small business operators, managers, creators, AI consultants. Pairs with a companion masterclass video.
 
 The kit personalizes itself to you via an `/onboard` interview. Use `/grill-me` whenever you want to deepen its understanding of your business, preferences, or plans. Use `/link` to make new information findable, `/audit` to verify the system, `/level-up` to close one useful gap at a time, and `/3d-brain` to explore your saved knowledge as an interactive globe.
 
-> **AIOS** stands for **AI Operating System** — designed to be set up for members of the [AI Automation Society](https://www.skool.com/ai-automation-society). The kit is universal (it works for anyone), but the structure mirrors how AIS members run their own businesses on top of it.
+> **AIOS** stands for **AI Operating System**. The kit is universal (it works for anyone).
 
 ---
 
@@ -35,35 +35,6 @@ Three felt **success indicators** tell you the AI OS is actually changing how yo
 **Personal foundation → company AI-readiness.** Once these indicators show up for one person, the same data architecture powers everything else. Custom dashboards on the data you already collect. Automations on top of the connections you already wired. Team rollout where everyone has theirs. *A company where every operator runs a personal AI OS is a company that's actually AI-ready.*
 
 The kit teaches personal AI OS first. Everything scales from there.
-
----
-
-## Two frameworks
-
-The kit teaches two complementary frameworks. **Three Ms first, Four Cs second.** Without the brain rewire, the architecture is just a folder structure.
-
-### The Three Ms — operator brain (how you think)
-
-| M | One-liner |
-|---|---|
-| **Mindset** | Default Shift, Function Breakdown, Curiosity Rule. *To what extent can AI be leveraged here?* |
-| **Method** | Find Constraint → EAD (Eliminate, Automate, Delegate) → Map Process → Pick Autonomy Level → Tie to KPI. |
-| **Machine** | Lego Principle, Validation Chain, Bike Method, Intern Rule, Kill Switch. *Boring is beautiful. Workflows beat agents.* |
-
-Full breakdown in `references/3ms-framework.md`. The `/level-up` skill walks you through all three weekly.
-
-### The Four Cs — architecture (what you build)
-
-| # | Layer | One-liner | "This layer is in place" test |
-|---|---|---|---|
-| 1 | **Context** | Knows your business | Fresh assistant session answers "what does this business do and who works here?" without browsing |
-| 2 | **Connections** | Reaches your stuff | "What's on my calendar tomorrow and what tasks are due?" → live data, no paste |
-| 3 | **Capabilities** | Knows how to do the work | A short phrase triggers a multi-step workflow that produces an artifact |
-| 4 | **Cadence** | Runs without being asked | Laptop closed. A brief lands in the inbox. A teammate messages it and gets a real answer |
-
-**Brand line:** Context. Connections. Capabilities. Cadence.
-
-Dependency graph: Context is non-skippable. Connections + Capabilities can build in parallel. Cadence is last — don't automate workflows that don't work manually.
 
 ---
 
